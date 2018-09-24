@@ -1,0 +1,50 @@
+html {
+  background-color: black;
+  font-family: verdana;
+  display: block;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
+
+}
+
+.top {
+  text-align: center;
+}
+
+a {
+  color: aquamarine;
+  font-size: 32px;
+}
+
+.middle {
+  text-align: center;
+}
+
+h2 {
+  font-size: 84px;
+  color: #fff;
+  text-align: center;
+}
+
+.bottom {
+  text-align: center;
+}
+
+p {
+  color: gray;
+  font-size: 42px;
+}
+
+.tent {
+  width: 100%;
+  height: auto;
+}
+
+.copyright {
+  text-align: right;
+}
